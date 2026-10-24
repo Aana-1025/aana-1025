@@ -60,7 +60,7 @@ Exploring backend development, databases, and the systems beneath everyday softw
 
 <p>Technologies used across my projects:</p>
 <p>
-  <img src="https://raw.githubusercontent.com/Aana-1025/aana-1025/main/assets/toolbox.svg" alt="Java · Python · JavaScript · Spring Boot · FastAPI · PostgreSQL · Redis · React · Git · Docker Compose" width="760" />
+  <img src="https://raw.githubusercontent.com/Aana-1025/aana-1025/main/assets/toolbox.svg" alt="Java · Python · JavaScript · Spring Boot · FastAPI · PostgreSQL · Redis · React · Git · Docker Compose · GitHub Actions · GHCR · Trivy · Terraform · AWS · Kubernetes · Helm · Argo CD · Prometheus · Grafana" width="760" />
 </p>
 
 ## ✦ What I'm learning next
