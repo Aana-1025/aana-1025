@@ -9,7 +9,8 @@ Exploring backend development, databases, and the systems beneath everyday softw
 <p align="center">
   <a href="https://github.com/Aana-1025/Search-Typehead">Search Typeahead</a> &nbsp; · &nbsp;
   <a href="https://github.com/Aana-1025/http-in-binary">HTTP in Binary</a> &nbsp; · &nbsp;
-  <a href="https://github.com/Aana-1025/AuditGuard-AI">AuditGuard</a>
+  <a href="https://github.com/Aana-1025/AuditGuard-AI">AuditGuard</a> &nbsp; · &nbsp;
+  <a href="https://github.com/Aana-1025/incidentops-devops-capstone">IncidentOps</a>
 </p>
 
 ---
@@ -42,6 +43,15 @@ Exploring backend development, databases, and the systems beneath everyday softw
 <p>An expense-auditing prototype with checks for suspicious transactions, an analyst dashboard, and a simulated audit workflow.</p>
 <p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>Rule-based checks</code></p>
 <p><a href="https://github.com/Aana-1025/AuditGuard-AI"><b>View project →</b></a></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3>04 &nbsp; IncidentOps</h3>
+<p><b>Incident management backed by a complete DevOps delivery path.</b></p>
+<p>A reliability-management platform with a React dashboard, FastAPI API, and PostgreSQL. The project includes automated tests, non-root containers, GitHub Actions, Trivy scanning, immutable GHCR images, Terraform-provisioned AWS EKS, Helm, Argo CD, Prometheus, and Grafana.</p>
+<p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>PostgreSQL</code> <code>Docker</code> <code>Kubernetes</code> <code>Terraform</code></p>
+<p><a href="https://github.com/Aana-1025/incidentops-devops-capstone"><b>View project →</b></a> &nbsp; · &nbsp; <a href="https://github.com/Aana-1025/incidentops-devops-capstone/blob/main/ARCHITECTURE.md">Read the architecture</a></p>
 </td>
 </tr>
 </table>
