@@ -1,1 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="148" viewBox="0 0 760 148"><title>Java, Python, JavaScript, Spring Boot, FastAPI, PostgreSQL, Redis, React, Git, Docker Compose</title><rect x="24" y="24" width="92" height="40" rx="12" fill="#eee9ff"/><text x="70" y="50" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#514074">Java</text><rect x="128" y="24" width="110" height="40" rx="12" fill="#eee9ff"/><text x="183" y="50" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#514074">Python</text><rect x="250" y="24" width="140" height="40" rx="12" fill="#eee9ff"/><text x="320" y="50" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#514074">JavaScript</text><rect x="402" y="24" width="153" height="40" rx="12" fill="#eee9ff"/><text x="478.5" y="50" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#514074">Spring Boot</text><rect x="567" y="24" width="114" height="40" rx="12" fill="#eee9ff"/><text x="624" y="50" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#514074">FastAPI</text><rect x="24" y="85" width="149" height="40" rx="12" fill="#e3f4f0"/><text x="98.5" y="111" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#21574e">PostgreSQL</text><rect x="185" y="85" width="93" height="40" rx="12" fill="#e3f4f0"/><text x="231.5" y="111" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#21574e">Redis</text><rect x="290" y="85" width="94" height="40" rx="12" fill="#e3f4f0"/><text x="337" y="111" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#21574e">React</text><rect x="396" y="85" width="73" height="40" rx="12" fill="#e3f4f0"/><text x="432.5" y="111" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#21574e">Git</text><rect x="481" y="85" width="191" height="40" rx="12" fill="#e3f4f0"/><text x="576.5" y="111" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#21574e">Docker Compose</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="270" viewBox="0 0 760 270">
+  <title>Java, Python, JavaScript, Spring Boot, FastAPI, PostgreSQL, Redis, React, Git, Docker Compose, GitHub Actions, GHCR, Trivy, Terraform, AWS, Kubernetes, Helm, Argo CD, Prometheus, Grafana</title>
+  <rect x="24" y="24" width="92" height="40" rx="12" fill="#eee9ff"/>
+  <text x="70" y="50" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#514074">Java</text>
+  <rect x="128" y="24" width="110" height="40" rx="12" fill="#eee9ff"/>
+  <text x="183" y="50" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#514074">Python</text>
+  <rect x="250" y="24" width="140" height="40" rx="12" fill="#eee9ff"/>
+  <text x="320" y="50" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#514074">JavaScript</text>
+  <rect x="402" y="24" width="153" height="40" rx="12" fill="#eee9ff"/>
+  <text x="478.5" y="50" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#514074">Spring Boot</text>
+  <rect x="567" y="24" width="114" height="40" rx="12" fill="#eee9ff"/>
+  <text x="624" y="50" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#514074">FastAPI</text>
+
+  <rect x="24" y="85" width="149" height="40" rx="12" fill="#e3f4f0"/>
+  <text x="98.5" y="111" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#21574e">PostgreSQL</text>
+  <rect x="185" y="85" width="93" height="40" rx="12" fill="#e3f4f0"/>
+  <text x="231.5" y="111" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#21574e">Redis</text>
+  <rect x="290" y="85" width="94" height="40" rx="12" fill="#e3f4f0"/>
+  <text x="337" y="111" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#21574e">React</text>
+  <rect x="396" y="85" width="73" height="40" rx="12" fill="#e3f4f0"/>
+  <text x="432.5" y="111" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#21574e">Git</text>
+  <rect x="481" y="85" width="191" height="40" rx="12" fill="#e3f4f0"/>
+  <text x="576.5" y="111" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" fill="#21574e">Docker Compose</text>
+
+  <rect x="24" y="146" width="170" height="40" rx="12" fill="#e5f0fb"/>
+  <text x="109" y="172" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#28506f">GitHub Actions</text>
+  <rect x="206" y="146" width="100" height="40" rx="12" fill="#e5f0fb"/>
+  <text x="256" y="172" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#28506f">GHCR</text>
+  <rect x="318" y="146" width="90" height="40" rx="12" fill="#e5f0fb"/>
+  <text x="363" y="172" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#28506f">Trivy</text>
+  <rect x="420" y="146" width="120" height="40" rx="12" fill="#e5f0fb"/>
+  <text x="480" y="172" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#28506f">Terraform</text>
+  <rect x="552" y="146" width="90" height="40" rx="12" fill="#e5f0fb"/>
+  <text x="597" y="172" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#28506f">AWS</text>
+
+  <rect x="50" y="207" width="130" height="40" rx="12" fill="#f9e7ef"/>
+  <text x="115" y="233" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#7d3452">Kubernetes</text>
+  <rect x="192" y="207" width="80" height="40" rx="12" fill="#f9e7ef"/>
+  <text x="232" y="233" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#7d3452">Helm</text>
+  <rect x="284" y="207" width="100" height="40" rx="12" fill="#f9e7ef"/>
+  <text x="334" y="233" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#7d3452">Argo CD</text>
+  <rect x="396" y="207" width="130" height="40" rx="12" fill="#f9e7ef"/>
+  <text x="461" y="233" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#7d3452">Prometheus</text>
+  <rect x="538" y="207" width="100" height="40" rx="12" fill="#f9e7ef"/>
+  <text x="588" y="233" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#7d3452">Grafana</text>
+</svg>
